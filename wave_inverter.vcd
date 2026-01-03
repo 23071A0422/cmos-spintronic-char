@@ -1,0 +1,14 @@
+$date Jan 03, 2026 $end
+$version S+++ Characterization Suite $end
+$timescale 1ps $end
+$scope module tb_inverter $end
+$var wire 1 ! in $end
+$var wire 1 " out $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+1"
+#5000
+1!
+0"

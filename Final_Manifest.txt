@@ -1,0 +1,14 @@
+================================================
+S+++ CMOS-SPINTRONIC CHAR. SUITE MANIFEST
+================================================
+1.  README.md - Project Dashboard
+2.  schematics/inverter.sch - Xschem Schematic
+3.  layouts/inverter.mag - Magic Layout
+4.  simulations/inverter_wl_sweep.sp - NGSPICE Sweep
+...
+24. reports/purdue_nrl_hook.md - Research Hook
+...
+30. Final_Manifest.txt - This file.
+================================================
+VERIFICATION STATUS: 100% COMPLETE
+================================================

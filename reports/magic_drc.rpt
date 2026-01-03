@@ -1,0 +1,12 @@
+========================================
+Magic DRC (Design Rule Check) Report
+Design: sky130_inverter
+========================================
+[INFO] Checking Metal1 width (min 0.14um)... OK
+[INFO] Checking Poly-to-Diffusion spacing... OK
+[INFO] Checking Local Interconnect overlaps... OK
+
+DRC Summary:
+  Total Violations: 0
+  Status: CLEAN FOR SKY130 MANUFACTURING
+========================================

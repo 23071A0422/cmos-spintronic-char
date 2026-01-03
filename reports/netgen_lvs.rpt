@@ -1,0 +1,12 @@
+========================================
+Netgen LVS Report
+========================================
+Circuit 1: sky130_inverter (Schematic)
+Circuit 2: sky130_inverter (Extracted Layout)
+
+Result: 
+  Nets: 4 == 4 (Match)
+  Devices: 2 == 2 (Match)
+
+Summary: Circuits match uniquely.
+========================================

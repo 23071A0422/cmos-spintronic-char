@@ -1,0 +1,10 @@
+3D PLOT DATA SUMMARY: NOISE MARGIN
+----------------------------------
+X-Axis: Supply Voltage (1.6V to 2.0V)
+Y-Axis: Temperature (-40C to 125C)
+Z-Axis: Static Noise Margin (SNM) in mV
+
+Key Observation: At 125C and 1.6V (CERN Worst Case), 
+the SNM drops to 320mV. This represents a 45% reduction 
+from nominal conditions, requiring a Schmitt-Trigger 
+input buffer for radiation-hardened DAQ sensors.

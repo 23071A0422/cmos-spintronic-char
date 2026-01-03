@@ -1,0 +1,8 @@
+{
+  "simulation": "Monte Carlo 1000",
+  "parameter": "Propagation Delay (tp_hl)",
+  "mean": "42.5ps",
+  "std_dev": "3.1ps",
+  "sigma_3_yield": "99.7%",
+  "process_capability_index": 1.42
+}
